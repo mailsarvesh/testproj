@@ -23,3 +23,5 @@ speed-measure-plugin.json
 .settings/
 *.sublime-workspace
 *ignore.txt
+
+/target
