@@ -24,4 +24,4 @@ speed-measure-plugin.json
 *.sublime-workspace
 *ignore.txt
 
-/target
+target/
